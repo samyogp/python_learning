@@ -14,5 +14,5 @@ else:
     else:
         print(f"{num} is an odd number.")
 
-print ("Hello samyog phuyal ")
+
 
