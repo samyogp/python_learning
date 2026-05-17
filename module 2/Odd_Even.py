@@ -13,4 +13,6 @@ else:
         print(f"{num} is an even number.")
     else:
         print(f"{num} is an odd number.")
-        
+
+print ("Hello samyog phuyal ")
+
