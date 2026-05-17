@@ -8,3 +8,9 @@ b = float(b)
 
 # addition 
 print(f"{a} + {b} = {a + b}")
+# subtraction 
+print(f"{a} - {b} = {a - b}")
+# multiplication 
+print(f"{a} * {b} = {a * b}")
+# division 
+print(f"{a} / {b} = {a / b}")
