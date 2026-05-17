@@ -10,9 +10,15 @@ print(2 ** 3 ** 2) # 512 (right to left: 3**2=9, then 2**9 )
 
 a = input("Enter a number: ")
 b = input("Enter another number: ")
+c = input("Enter a third number: ")
 
 a = float(a)
 b = float(b)
+c = float(c)
 
 result = a + b * 2 # multiplication first, then addition
 print(f"The result of {a} + {b} * 2 is: {result}")
+
+
+print(f"{a} + {b} * {c} is: {a + b * c}")
+
