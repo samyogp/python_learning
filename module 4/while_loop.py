@@ -16,3 +16,4 @@ while count <= 13:
         print(number)
         number = number - 1
 
+# 📝 Note: If you forget count += 1, loop runs forever (infinite loop). Press Ctrl+C to stop.
