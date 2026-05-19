@@ -1,3 +1,8 @@
+# syntax of if statement in python
+# if condition:
+     # code to run if condition is true 
+
+
 # if example 
 age = 18
 if age >= 18:
@@ -14,9 +19,4 @@ if age >= 18:
         print("you cannot vote yet.")
 
 
-        # another example with user input in if condition
-        temprature = input("Enter the temperature in celsius:")
-        temprature = float(temprature)
-        if temprature > 30:
-            print(f"The temperature is {temprature} degree celsius. its a hot day. Drink water!")
-            
+        
