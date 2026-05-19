@@ -8,3 +8,9 @@ if age >= 18:
         print("you need a license to drive!")
 else:
         print("Too young to drive!")
+
+
+        # better way (using and - next topic):
+        if age >= 18 and has_license:
+             print("You can drive!")
+             
