@@ -7,3 +7,12 @@ count = 0
 while count <= 13:
     print(count)
     count = count + 1
+
+    # another example of while loop with user input
+    number = input("Enter a number:")
+    # converting input to int for the calculation 
+    number = int(number)
+    while number > 0:
+        print(number)
+        number = number - 1
+
