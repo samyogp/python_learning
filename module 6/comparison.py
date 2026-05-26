@@ -9,3 +9,9 @@ days_of_week = ("mon", "tue", "wed", "thu", "fri", "sat", "sun")
 
 # coordinates, RGB colors, constants
 rgb = (225, 128, 0)
+print(shopping_list)
+print(days_of_week)
+print(rgb)
+
+
+
