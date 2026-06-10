@@ -13,4 +13,4 @@ if 0 <= index < len(user_list):
     print(f"The item at index {index} is: {user_list[index]}")
 else:
     print("Invalid index. Please enter a number between 0 and", len(user_list)-1)
-    
+    print

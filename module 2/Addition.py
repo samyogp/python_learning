@@ -4,6 +4,10 @@ b = 5
 
 result = a + b
 print(result) # 15
+
+
+
+
 # another example of addition where user can input the numbers
 num1 = input("Enter the first number: ")
 num2 = input("Enter the second number: ")

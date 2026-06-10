@@ -5,4 +5,4 @@ while i <= 10:
         break
     print(i)
     i += 1
-    
+    # # break – exits the loop immediately.

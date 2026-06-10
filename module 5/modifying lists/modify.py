@@ -1,4 +1,4 @@
-# modifying lists
+# modifying lists change an item 
 numbers = [1, 2, 3, 4, 5]
 numbers[2] = 99
 print(numbers) 
