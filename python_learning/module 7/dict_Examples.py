@@ -17,7 +17,5 @@ print(student)
 student["country"] = "Nepal"
 print(student)
 # delete
-del student["city"]
-print(student)
 
 
