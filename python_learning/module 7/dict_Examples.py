@@ -16,6 +16,8 @@ student["age"] = 20
 print(student)
 student["country"] = "Nepal"
 print(student)
+phonebook["gita"] = 9876543210
+print(phonebook)
 
 
 
