@@ -14,8 +14,10 @@ print(students["sita"]["science"])
 print(students["gita"]["math"])
 
 
-print(f"Ram math: {students['ram']['math']} and science: {students['ram']['science']}")
+# print(f"Ram math: {students['ram']['math']} and science: {students['ram']['science']}")
 
-
+# Add new subject to Ram
+students["ram"]["english"] = 78
+print(students["ram"])
 
 
