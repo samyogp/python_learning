@@ -20,8 +20,8 @@ while True:
         print(phonebook.get(name, "Not found"))
 
     elif choice == "3":
-        for name, number in phonebook.items():
-            print(f"{name}: {number}")
+     for name, number in phonebook.items():
+        print(f"{name}: {number}")
 
     elif choice == "4":
         name = input("Name to delete: ")
