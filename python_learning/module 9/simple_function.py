@@ -8,3 +8,9 @@ greet()
 
 # Print a message
 print("Function called three times.")
+
+# syntax 
+# def function_name():
+   #code check
+    # (indented)
+    
